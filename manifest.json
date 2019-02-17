@@ -4,7 +4,7 @@
   "name": "Kittify",
   "version": "1.0",
   "description": "Lets you turn all pictures into cute kitties!",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "homepage_url": "https://github.com/panagiotisjones/Kittify",
   "icons": {
     "48": "icons/beasts-48.png"
   },
