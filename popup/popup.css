@@ -1,0 +1,20 @@
+body {
+  background-color: #809848;
+}
+.kittify-button {
+  text-align: center;
+  font-size: 1.75em;
+  font-weight: bolder;
+  background-color: #B0CA87;
+  color: #442220;
+  border-radius: 20px;
+}
+.kittify-button:hover {
+  background-color: #B5DEAD;
+  cursor: pointer;
+}
+.popup-text {
+  text-align: center;
+  color: #442220;
+  font-weight: bold;
+}
